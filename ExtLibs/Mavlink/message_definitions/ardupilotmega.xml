@@ -936,7 +936,7 @@
       <entry value="1" name="PLANE_MODE_CIRCLE"/>
       <entry value="2" name="PLANE_MODE_STABILIZE"/>
       <entry value="3" name="PLANE_MODE_TRAINING"/>
-      <entry value="4" name="PLANE_MODE_ACRO"/>
+      <entry value="4" name="PLANE_MODE_GUIDED"/>
       <entry value="5" name="PLANE_MODE_FLY_BY_WIRE_A"/>
       <entry value="6" name="PLANE_MODE_FLY_BY_WIRE_B"/>
       <entry value="7" name="PLANE_MODE_CRUISE"/>
@@ -945,7 +945,7 @@
       <entry value="11" name="PLANE_MODE_RTL"/>
       <entry value="12" name="PLANE_MODE_LOITER"/>
       <entry value="14" name="PLANE_MODE_AVOID_ADSB"/>
-      <entry value="15" name="PLANE_MODE_GUIDED"/>
+      <entry value="15" name="PLANE_MODE_ACRO"/>
       <entry value="16" name="PLANE_MODE_INITIALIZING"/>
       <entry value="17" name="PLANE_MODE_QSTABILIZE"/>
       <entry value="18" name="PLANE_MODE_QHOVER"/>
